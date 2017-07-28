@@ -19,5 +19,5 @@ git commit -m "commit msn"
 essential step
 #remote add repo after graph
 git remote add origin https://www.github.com/qinahbh/ops.git
-git push origin master
+git push -u origin master
 
