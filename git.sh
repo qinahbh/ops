@@ -1,4 +1,5 @@
 #deploy
+https://qinahbh@github.com
 apt install git
 #configure git
 git config --global user.name "qinahbh"
