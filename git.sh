@@ -6,6 +6,10 @@ git config --global user.name "qinahbh"
 git config --global user.email "qinahbh@gmail.com"
 #check cfg
 git config --list
+#ssh authority
+ssh-keygen -C 'qinahbh@gmail.com' -t rsa
+#graphy insert pubkey
+ssh -v git@github.com
 #new repository
 git init repository_name(https://www.github.com/qinahbh/repository_name/)
 #insert into repo
