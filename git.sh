@@ -1,6 +1,9 @@
 #deploy
 https://qinahbh@github.com
 apt install git
+apt install git-notifier
+#old version git server
+apt install gitano
 #configure git
 git config --global user.name "qinahbh"
 git config --global user.email "qinahbh@gmail.com"
@@ -48,3 +51,12 @@ git diff
 git show
 #show current work status
 git status
+#-------------------------
+#git client for graphy
+git-cola
+gitg
+smartgit
+giggle
+git-gui
+qgit
+#gitolite
